@@ -1,14 +1,14 @@
-🎮 Tic Tac Toe Game
+🎮 Tic Tac Toe Game <br>
 I developed a Tic Tac Toe Game using HTML, CSS, and JavaScript. This classic two-player game allows users to play X and O in a 3×3 grid with interactive and responsive gameplay. 🚀
 
-✨ Features
-✅ Two-Player Mode – Play with a friend on the same device.
-✅ Dynamic Game Board – Real-time updates with smooth UI interactions.
-✅ Win Detection – Highlights the winning combination.
-✅ Restart Option – Reset the game anytime with a click.
-✅ Responsive Design – Works on desktops, tablets, and mobile devices.
+✨ Features <br>
+✅ Two-Player Mode – Play with a friend on the same device. <br>
+✅ Dynamic Game Board – Real-time updates with smooth UI interactions. <br>
+✅ Win Detection – Highlights the winning combination. <br>
+✅ Restart Option – Reset the game anytime with a click. <br>
+✅ Responsive Design – Works on desktops, tablets, and mobile devices. <br>
 
-🛠 Technologies Used
-🔹 HTML – Structuring the game board.
-🔹 CSS – Styling for a modern and interactive UI.
-🔹 JavaScript – Game logic, event handling, and result detection.
+🛠 Technologies Used <br>
+🔹 HTML – Structuring the game board. <br>
+🔹 CSS – Styling for a modern and interactive UI. <br>
+🔹 JavaScript – Game logic, event handling, and result detection. <br>
