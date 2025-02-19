@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         currentPlayer = 'X';
         gameActive = true;
-        gameStatus.textContent = ''; // Clear the winner status
+        gameStatus.textContent = ''; 
     }
 
     function checkWinner() {
